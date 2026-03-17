@@ -1,0 +1,110 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 0.72952,
+    "train_accuracy": -0.3674,
+    "train_f1": -0.4892,
+    "train_iou": -0.1965,
+    "val_loss": 0.72517,
+    "val_accuracy": 0.1513,
+    "val_f1": 0.1879,
+    "val_iou": 0.1037,
+    "val_auc": 0.5293
+  },
+  {
+    "epoch": 2,
+    "train_loss": 0.4629,
+    "train_accuracy": 1.2705,
+    "train_f1": 0.568,
+    "train_iou": 0.3966,
+    "val_loss": 0.37272,
+    "val_accuracy": 0.9345,
+    "val_f1": 0.7193,
+    "val_iou": 0.5616,
+    "val_auc": 0.9601
+  },
+  {
+    "epoch": 3,
+    "train_loss": 0.25559,
+    "train_accuracy": 1.1247,
+    "train_f1": 0.7418,
+    "train_iou": 0.5895,
+    "val_loss": 0.22591,
+    "val_accuracy": 0.9611,
+    "val_f1": 0.807,
+    "val_iou": 0.6764,
+    "val_auc": 0.9793
+  },
+  {
+    "epoch": 4,
+    "train_loss": 0.16704,
+    "train_accuracy": 1.096,
+    "train_f1": 0.7934,
+    "train_iou": 0.6576,
+    "val_loss": 0.19441,
+    "val_accuracy": 0.9662,
+    "val_f1": 0.8342,
+    "val_iou": 0.7155,
+    "val_auc": 0.9832
+  },
+  {
+    "epoch": 5,
+    "train_loss": 0.14007,
+    "train_accuracy": 1.082,
+    "train_f1": 0.822,
+    "train_iou": 0.6979,
+    "val_loss": 0.18805,
+    "val_accuracy": 0.9681,
+    "val_f1": 0.8431,
+    "val_iou": 0.7287,
+    "val_auc": 0.9867
+  },
+  {
+    "epoch": 6,
+    "train_loss": 0.12808,
+    "train_accuracy": 1.0751,
+    "train_f1": 0.8369,
+    "train_iou": 0.7196,
+    "val_loss": 0.1811,
+    "val_accuracy": 0.9696,
+    "val_f1": 0.8543,
+    "val_iou": 0.7457,
+    "val_auc": 0.9884
+  },
+  {
+    "epoch": 7,
+    "train_loss": 0.11367,
+    "train_accuracy": 1.0659,
+    "train_f1": 0.857,
+    "train_iou": 0.7498,
+    "val_loss": 0.1733,
+    "val_accuracy": 0.973,
+    "val_f1": 0.8665,
+    "val_iou": 0.7645,
+    "val_auc": 0.9902
+  },
+  {
+    "epoch": 8,
+    "train_loss": 0.10357,
+    "train_accuracy": 1.0593,
+    "train_f1": 0.8715,
+    "train_iou": 0.7723,
+    "val_loss": 0.16983,
+    "val_accuracy": 0.9741,
+    "val_f1": 0.8726,
+    "val_iou": 0.7741,
+    "val_auc": 0.9904
+  },
+  {
+    "epoch": 9,
+    "train_loss": 0.0952,
+    "train_accuracy": 1.0541,
+    "train_f1": 0.883,
+    "train_iou": 0.7905,
+    "val_loss": 0.16655,
+    "val_accuracy": 0.9751,
+    "val_f1": 0.8777,
+    "val_iou": 0.782,
+    "val_auc": 0.9917
+  }
+]
